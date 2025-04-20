@@ -1,0 +1,17 @@
+Metadata-Version: 2.4
+Name: recon_xtreme
+Version: 0.1.0
+Requires-Dist: httpx
+Requires-Dist: aiohttp
+Requires-Dist: rich
+Requires-Dist: typer
+Requires-Dist: asyncio
+Requires-Dist: beautifulsoup4
+Requires-Dist: pyyaml
+Requires-Dist: aiodns
+Requires-Dist: dnspython
+Requires-Dist: requests
+Requires-Dist: colorama
+Requires-Dist: cryptography
+Requires-Dist: python-dateutil
+Dynamic: requires-dist

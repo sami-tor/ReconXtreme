@@ -1,0 +1,13 @@
+httpx
+aiohttp
+rich
+typer
+asyncio
+beautifulsoup4
+pyyaml
+aiodns
+dnspython
+requests
+colorama
+cryptography
+python-dateutil
